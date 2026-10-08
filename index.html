@@ -77,13 +77,13 @@
 <div class="copy" aria-label="Moonshine">
   <h1>MOONSHINE</h1>
   <div class="tagline">Build interactive Vulkan experiences in Python</div>
-  <div class="install">pip install moonshinevk</div>
+  <div class="install">pip install moonshinevk==0.1.0</div>
 </div>
 <div class="hint">move pointer</div>
 <script>
 (() => {
   const el = document.querySelector(".install");
-  const text = "pip install moonshinevk";
+  const text = "pip install moonshinevk==0.1.0";
   el.setAttribute("role", "button"); el.tabIndex = 0; el.title = "Click to copy";
   let timer;
   async function copy() {
