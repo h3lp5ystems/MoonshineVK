@@ -35,3 +35,8 @@ Use the following install command to install</br>
 
 https://h3lp5ystems.github.io/MoonshineVK/</br>
 
+## Powered by Vulkan 1.4
+
+<img width="375" height="125" alt="Vulkan_Logo" src="https://github.com/user-attachments/assets/601fc25b-5c3d-4531-b3c3-538b4c918022" />
+
+
