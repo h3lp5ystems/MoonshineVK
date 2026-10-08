@@ -9,5 +9,29 @@ Features:
 
 Whatever it is use MoonShineVK
 
-https://h3lp5ystems.github.io/MoonshineVK/
-https://github.com/h3lp5ystems/MoonshineVK
+What is 'bvk' and what is 'mvk', and what's the difference?
+
+## mvk
+### Moonshine Vulkan Package for Python
+
+• Mvk is the main Moonshine Vulkan HLSL library for compiling HLSL into Spir-V and running it at runtime.</br>
+
+• Mvk currently only supports compute shaders due to the 1000+ lines of boilerplate required for running</br>
+fragment shaders.</br>
+
+## bvk
+### Vulkan Bottle for Moonshine
+
+• Bvk is the absolute 95% finished Vulkan 1.4 wrapper for Python that uses near to 18,000 lines of code to</br>
+fully incorporate the Vulkan Graphics Library into python. Now that we have released 0.1.0 we are working on</br>
+using bvk to load compute shaders through mvk.</br>
+
+## Install
+
+Use the following install command to install</br>
+`pip install moonshinevk==0.1.0`</br>
+
+## Official Website
+
+https://h3lp5ystems.github.io/MoonshineVK/</br>
+
