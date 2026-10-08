@@ -1,0 +1,15 @@
+[build-system]
+requires = ['hatchling']
+build-backend = 'hatchling.build'
+
+[project]
+name = "moonshinevk"
+version = "0.1.0"
+requires-python = ">=3.12"
+description = 'Your one stop shop for all thing Vulkan in Python!'
+dependencies = []
+readme = 'README.md'
+license = 'MIT'
+
+[tool.hatch.build.targets.wheel]
+packages = ['moonshinevk']
