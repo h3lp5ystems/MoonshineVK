@@ -25,11 +25,13 @@ This section discusses all project and package files.</br>
 fully incorporate the Vulkan Graphics Library into python. Now that we have released 0.1.0 we are working on</br>
 using bvk to load compute shaders through mvk.</br>
 
-## applepie
+## apple barrel
 ### Vulkan Barrel framework for GOlang
 
 • Applepie is an experimental moonshine implementation of bvk for Go.
-
+> [!CAUTION]
+> AppleBarrel Goland currently contains a library breaking bug with a missing</br>
+> function type that won't let it compile.</br>
 ## Install
 
 > [!WARNING]
@@ -55,4 +57,6 @@ https://h3lp5ystems.github.io/MoonshineVK/</br>
 
 <img width="375" height="125" alt="Vulkan_Logo" src="https://github.com/user-attachments/assets/601fc25b-5c3d-4531-b3c3-538b4c918022" />
 
+> [!IMPORTANT]
+> As well as all text listed above this repository is also really unconventional and cluttered.
 
