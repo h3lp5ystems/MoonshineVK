@@ -29,9 +29,11 @@ using bvk to load compute shaders through mvk.</br>
 ### Vulkan Barrel framework for GOlang
 
 • Applepie is an experimental moonshine implementation of bvk for Go.
-> [!CAUTION]
+
+> [!TIP]
 > AppleBarrel Goland currently contains a library breaking bug with a missing</br>
 > function type that won't let it compile.</br>
+
 ## Install
 
 > [!WARNING]
