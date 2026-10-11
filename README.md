@@ -17,8 +17,6 @@ This section discusses all project and package files.</br>
 
 • Mvk is the main Moonshine Vulkan HLSL library for compiling HLSL into Spir-V and running it at runtime.</br>
 
-• Mvk currently only supports compute shaders due to the 1000+ lines of boilerplate required for running</br>
-fragment shaders.</br>
 
 ## bvk
 ### Vulkan Bottle for Moonshine
