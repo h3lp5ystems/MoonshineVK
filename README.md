@@ -34,8 +34,20 @@ using bvk to load compute shaders through mvk.</br>
 
 ## Install
 
-Use the following install command to install</br>
-`pip install moonshinevk==0.1.0`</br>
+> [!WARNING]
+> Due to unforeseen circumstances MoonshineVK's base bvk library</br>
+> has seen a high increase in bugs and errors due to an outdated</br>
+> wrapper formula likely built for Vulkan 1.2. Due to this we have</br>
+> stopped all progress on mvk for HLSL and moved onto those bugs.</br>
+> Now that we have finally got it to import and run without breaking</br>
+> errors we will release the bvk-universal.py, this file will not be</br>
+> installable through pip and any pip install for moonshine is outdated</br>
+> and will not work when running. As well as this the main bvk looks for</br>
+> the libvulkan library file depending on your operating system and so</br>
+> you will need to find the file referenced on yor PC and update it in the</br>
+> bvk-universal.py depending on your username and other folder paths.</br>
+> Finally we are sad to announce MoonshineVK will no longer be receiving</br>
+> any new features and will just be updated occasionally if ever for bugfixes.</br> 
 
 ## Official Website
 
