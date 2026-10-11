@@ -49,7 +49,7 @@ using bvk to load compute shaders through mvk.</br>
 > Finally we are sad to announce MoonshineVK will no longer be receiving</br>
 > any new features and will just be updated occasionally if ever for bugfixes.</br> 
 
-## Official Website
+## Official Website (Look to section above for installing MoonshineVK or BVK.)
 
 https://h3lp5ystems.github.io/MoonshineVK/</br>
 
