@@ -1,11 +1,16 @@
 # MoonshineVK
+
+## Updated Description:</br>
+### Experience low level lates 1.4 Vulkan API without ever leaving the python IDE
+
+## Old Description</br>
 Your one stop shop for all things vulkan in python.
 
 Features:
 
-• Embed Vulkan HLSL code directly into Python that compiles to fast SPIR-V at runtime!</br>
+• ~~Embed Vulkan HLSL code directly into Python that compiles to fast SPIR-V at runtime!~~ </br>
 • Use the built in moonshine bottle vulkan python wrapper to use vulkan directly in python, no extra install!</br>
-• Make and run compute, vertex and fragment shaders directly inside python for AI, Graphics and Games.</br>
+• ~~Make and run compute, vertex and fragment shaders directly inside python for AI, Graphics and Games.~~ </br>
 
 Whatever it is use MoonShineVK
 
@@ -21,9 +26,9 @@ This section discusses all project and package files.</br>
 ## bvk
 ### Vulkan Bottle for Moonshine
 
-• Bvk is the absolute 95% finished Vulkan 1.4 wrapper for Python that uses near to 18,000 lines of code to</br>
+• Bvk is the absolute 100% finished Vulkan 1.4 wrapper for Python that uses near to 18,000 lines of code to</br>
 fully incorporate the Vulkan Graphics Library into python. Now that we have released 0.1.0 we are working on</br>
-using bvk to load compute shaders through mvk.</br>
+using bvk to ~~load compute shaders through mvk.~~ </br>
 
 ## apple barrel
 ### Vulkan Barrel framework for GOlang
